@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "12337487081",
+    "project_id": "lostandfoundapp-f0ec6",
+    "storage_bucket": "lostandfoundapp-f0ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12337487081:android:14f01b7c3b0c2463436478",
+        "android_client_info": {
+          "package_name": "com.example.lostandfoundapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12337487081-mrem8ah0gtqupubrg34ncp4530kekr9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lostandfoundapp",
+            "certificate_hash": "1cf2f9aab6ffe1f5ac3c906bc036981add154d3b"
+          }
+        },
+        {
+          "client_id": "12337487081-mo33opkblt9bcjb6fk2soi5500r4fpkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuMHR8jYJYLcjT2gQRi_l7iLimD2vCFWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12337487081-mo33opkblt9bcjb6fk2soi5500r4fpkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
